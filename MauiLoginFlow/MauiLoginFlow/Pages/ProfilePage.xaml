@@ -5,9 +5,11 @@
              Title="ProfilePage">
     <VerticalStackLayout>
         <Label 
-        Text="ProfilePage"
+        Text="Profile"
         VerticalOptions="Center" 
         HorizontalOptions="Center" />
+        <Label Text="{Binding Username}" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
+        <Label Text="{Binding Password}" HorizontalOptions="CenterAndExpand" VerticalOptions="CenterAndExpand" />
         <Button Text="Logout"
             Clicked="Button_Clicked"/>
     </VerticalStackLayout>

@@ -18,6 +18,11 @@
         Route="LoginPage"
         Shell.FlyoutItemIsVisible="False"/>
     <ShellContent
+        Title="Register"
+        ContentTemplate="{DataTemplate pages:RegisterPage}"
+        Route="RegisterPage"
+        Shell.FlyoutItemIsVisible="False"/>
+    <ShellContent
         Title="Home"
         ContentTemplate="{DataTemplate local:MainPage}"
         Route="MainPage" />
