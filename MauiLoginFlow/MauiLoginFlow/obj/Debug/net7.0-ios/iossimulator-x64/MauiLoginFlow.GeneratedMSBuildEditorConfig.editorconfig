@@ -1,0 +1,59 @@
+is_global = true
+build_property.TargetFramework = net7.0-ios
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MauiLoginFlow
+build_property.ProjectDir = C:\Users\david\OneDrive\Skrivbord\Projekt\C#\MauiLoginFlowGit\MauiLoginFlow\MauiLoginFlow\
+
+[C:/Users/david/OneDrive/Skrivbord/Projekt/C\#/MauiLoginFlowGit/MauiLoginFlow/MauiLoginFlow/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiLoginFlow.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/david/OneDrive/Skrivbord/Projekt/C\#/MauiLoginFlowGit/MauiLoginFlow/MauiLoginFlow/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiLoginFlow.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/david/OneDrive/Skrivbord/Projekt/C\#/MauiLoginFlowGit/MauiLoginFlow/MauiLoginFlow/Pages/LoadingPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiLoginFlow.Pages.LoadingPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\LoadingPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\LoadingPage.xaml
+
+[C:/Users/david/OneDrive/Skrivbord/Projekt/C\#/MauiLoginFlowGit/MauiLoginFlow/MauiLoginFlow/Pages/LoginPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiLoginFlow.Pages.LoginPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\LoginPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\LoginPage.xaml
+
+[C:/Users/david/OneDrive/Skrivbord/Projekt/C\#/MauiLoginFlowGit/MauiLoginFlow/MauiLoginFlow/Pages/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiLoginFlow.Pages.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\MainPage.xaml
+
+[C:/Users/david/OneDrive/Skrivbord/Projekt/C\#/MauiLoginFlowGit/MauiLoginFlow/MauiLoginFlow/Pages/ProfilePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiLoginFlow.Pages.ProfilePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ProfilePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ProfilePage.xaml
+
+[C:/Users/david/OneDrive/Skrivbord/Projekt/C\#/MauiLoginFlowGit/MauiLoginFlow/MauiLoginFlow/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiLoginFlow.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/david/OneDrive/Skrivbord/Projekt/C\#/MauiLoginFlowGit/MauiLoginFlow/MauiLoginFlow/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiLoginFlow.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
